@@ -15,7 +15,7 @@
     ],
     "action": {
         "default_popup": "popup/popup.html",
-        "default_title": "2Captcha Auto Solve reCAPTCHA/hCAPTCHA Bypass",
+        "default_title": "2Captcha Solver: Auto Recognition and Bypass",
         "default_icon": {
             "32": "assets/images/icon_32.png",
             "128": "assets/images/icon_128.png"
