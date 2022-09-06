@@ -115,7 +115,7 @@
     "message": "Put captcha answer here"
   },
   "normalManual": {
-    "message": "Location of image with captcha is saved. Now, please choose where to put answer. (<a href=\"https://2captcha.com/chrome-ext-image-manual\" target=\"_blank\">manual</a>)"
+    "message": "Location of image with captcha is saved. Now, please choose where to put answer."
   },
   "autoSubmitRules": {
     "message": "AutoSubmit rules"
